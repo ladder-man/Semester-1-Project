@@ -1,6 +1,9 @@
-# Semester-1-Project
+# initial prototype
 
-All code content for the semester 1 project
+All code content from the initial prototype
 This includes:
-    -initial prototype
-    -modifiactions (+descriptions of changes)
+    -Sprite.cs
+    -PlatformSprite.cs
+    -PlayerSprite.cs
+    -Game1.cs
+    -PageSprite.cs
