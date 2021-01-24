@@ -1,6 +1,4 @@
-# Semester-1-Project
+modification-1
 
-All code content for the semester 1 project
-This includes:
-    -initial prototype
-    -modifiactions (+descriptions of changes)
+All code modied/created/added in the course of making the Semester-1-Project.
+
